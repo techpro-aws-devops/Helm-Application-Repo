@@ -3,7 +3,17 @@ entries:
   Guestbook:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-30T19:00:19.508901514Z"
+    created: "2025-04-30T19:08:26.930097661Z"
+    description: A Helm chart for Kubernetes
+    digest: 1de4f44e509e23dfb6463e34b21e83fc248fd76be73f00ee61c7ad74c804446d
+    name: Guestbook
+    type: application
+    urls:
+    - Guestbook-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-30T19:08:26.928677046Z"
     description: A Helm chart for Kubernetes
     digest: 0d295b40679282601637fa7891c146cac1dd3cdb2d7296236f2ca4da3dd17b9d
     name: Guestbook
@@ -14,7 +24,7 @@ entries:
   todochart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-30T19:00:19.50954166Z"
+    created: "2025-04-30T19:08:26.931696438Z"
     description: A Helm chart for Kubernetes
     digest: eb9c4d7b6f8bb2e2322268c30366d6b2c31b3dce4056350368115bf3feb2ae5c
     name: todochart
@@ -24,7 +34,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-30T19:00:19.509325948Z"
+    created: "2025-04-30T19:08:26.931401475Z"
     description: A Helm chart for Kubernetes
     digest: d6f9e9de94a32d76c7bdf4f6f0d5010e04d05eb1cc2eb102743f214fc077fc7c
     name: todochart
@@ -34,7 +44,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-30T19:00:19.509115696Z"
+    created: "2025-04-30T19:08:26.930514146Z"
     description: A Helm chart for Kubernetes
     digest: 4ad54d1e63328be3efbb3eacd77dd92ce34445b70402f0849dc6290f2bd2e528
     name: todochart
@@ -42,4 +52,4 @@ entries:
     urls:
     - todochart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-30T19:00:19.508096725Z"
+generated: "2025-04-30T19:08:26.927402543Z"
